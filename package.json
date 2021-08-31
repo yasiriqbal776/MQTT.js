@@ -1,15 +1,17 @@
 {
-  "name": "mqtt",
+  "name": "@yasiriqbal776/mqtt-js",
   "description": "A library for the MQTT protocol",
-  "version": "4.2.8",
+  "version": "1.0.0",
   "contributors": [
     "Adam Rudd <adamvrr@gmail.com>",
     "Matteo Collina <matteo.collina@gmail.com> (https://github.com/mcollina)",
     "Siarhei Buntsevich <scarry0506@gmail.com> (https://github.com/scarry1992)",
-    "Yoseph Maguire <yomaguir@microsoft.com> (https://github.com/YoDaMa)"
+    "Yoseph Maguire <yomaguir@microsoft.com> (https://github.com/YoDaMa)",
+    "Yasir Iqbal <yasir.iqbal@@ideofuzion.com> (https://github.com/yasiriqbal776)"
   ],
   "keywords": [
     "mqtt",
+    "mqttjs",
     "publish/subscribe",
     "publish",
     "subscribe"
@@ -17,7 +19,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mqttjs/MQTT.js.git"
+    "url": "git://github.com/yasiriqbal776/MQTT.js.git"
   },
   "main": "mqtt.js",
   "types": "types/index.d.ts",
